@@ -1,0 +1,10 @@
+@font-face
+{
+    font-family: champagne;
+    src: url('fonts/LemonMilk.otf'),
+    url('fonts/LemonMilk.otf');
+}
+.nav{
+    font-family: champagne;
+    background-color: transparent;
+}
